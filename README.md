@@ -1,6 +1,7 @@
 # ML-Model
 Built a machine learning model with API using Flask and frontend with HTML.
 It is deploy on the link https://ml-model-329317.uw.r.appspot.com/
+ALL THE INPUT IS REQUIRED.
 
 Instruction to run locally:
 1. pip install requirements
